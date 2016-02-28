@@ -1,0 +1,36 @@
+_repo: The-Literary-Remains-of-Samuel-Taylor-Coleridge-Volume-3_8956
+contributor:
+  creator:
+    editor:
+      agent_name: Coleridge, Henry Nelson
+      birthdate: 1798
+      deathdate: 1843
+      gutenberg_agent_id: '2942'
+      url: http://www.gutenberg.org/2009/agents/2942
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Nelson_Coleridge
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Literature -- History and criticism'
+tableOfContents: Preface -- Formula fidei de SS. Trinitate -- Nightly prayer -- Notes
+  on the Book of common prayer; Hooker; Field; Donne; Henry More; Heinrichs; Hacket;
+  Jeremy Taylor; The pilgrim's progress; John Smith -- Letter to a godchild.
+title: The Literary Remains of Samuel Taylor Coleridge, Volume 3
+url: http://www.gutenberg.org/ebooks/8956
